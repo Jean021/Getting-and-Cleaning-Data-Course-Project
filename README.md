@@ -6,3 +6,5 @@ I loaded the X_train.txt, y_train.txt and subject_train.txt in the train folder 
 I also loaded the features.txt to R, too.
 
 Thirdly, I clean the data follwing the five steps as required.
+
+Lastly, after the cleaning process, I got a merged data set from step 1, which named 'mergedata', a tidy data set with the average of each variable for each activity and each subject from step 5, which named 'avgact' and 'avgsub'
