@@ -60,7 +60,7 @@ tBodyAccJerkMean
 tBodyGyroMean
 tBodyGyroJerkMean
 
-In addition, in the 'avgact' and 'avgsub', the variable names has been modified, see example:
+-In addition, in the 'tidydata', the variable names has been modified, see example:
 tBodyAcc-mean()-X -> tBodyAcc.mean...X
 tBodyAcc-mean()-Y -> tBodyAcc.mean...Y
 tBodyAcc-mean()-Z -> tBodyAcc.mean...Z
